@@ -1,6 +1,7 @@
 # Proposals for Future Projects
 <br/>
 <br/>
+
 ## 1. Predictive model for song popularity/weeks on top 100 chart
 ### Description
 This project will be a continuation of my previous project that looked into testing whether or not the month of a songs release affected a songs lifespan on a top 100 music chart. This time, I will attempt to leverage machine learning in order to create a model that will predict a songs "popularity".
